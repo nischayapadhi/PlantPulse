@@ -1,0 +1,16 @@
+# Core Data Manipulation
+pandas>=2.0.0      # Data wrangling, feature engineering, and pipeline creation
+numpy>=1.24.0      # Vectorized operations and mathematical functions
+
+# Statistical Analysis
+scipy>=1.10.0      # Hypothesis testing (Chi-square for failure modes, T-tests)
+statsmodels>=0.14.0 # Advanced statistical correlation and distribution analysis
+
+# Exploratory Data Analysis & Visualization
+matplotlib>=3.7.0  # Base plotting architecture
+seaborn>=0.12.0    # Statistical data visualization (correlation heatmaps, distributions)
+plotly>=5.14.0     # Interactive EDA (crucial for exploring multi-variable operating bands)
+
+# I/O and Environment
+jupyter>=1.0.0     # Notebook environment for exploration
+openpyxl>=3.1.0    # Excel read/write engine (since you'll likely export to Excel/PowerBI)
